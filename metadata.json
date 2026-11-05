@@ -1,0 +1,6 @@
+{
+  "name": "The Hidden Truth",
+  "description": "An interactive mystery trivia and quizmaster stage experience featuring riddles, mind traps, progressive clues, code cracking, and live team scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
